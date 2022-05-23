@@ -36,6 +36,11 @@ sifat spesifik yang dapat mempengaruhi gaya suatu element berdasarkan nilainya
 [list porperty yang bisa digunakan di dalam css](https://www.w3schools.com/cssref/default.asp)
 
 
+### Alur belajar
+
+1. ....
+2. Tata letak (layouting)
+
 ## Sumber
 
 1. https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p&index=1
