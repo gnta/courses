@@ -8,10 +8,13 @@ jika html digunakan untuk menyajikan konten, maka css digunakan untuk mengatur b
 ![Before and after css](https://assets.browserlondon.com/app/uploads/2017/03/no-css-example.jpg "Before and after css")
 
 
-## anatomi
+## Anatomi
 
 ```css
+
  selector { property: value; }
+ 
+ /* multi property */
  
  selector { 
   property-one : value;
@@ -28,7 +31,7 @@ Digunakan untuk memilih dan memanipulasi elemen spesifik pada html, Element html
 
 ### Property
 
-sifat spesifik yang dapat mempengaruhi gaya suatu element berdasalkan nilainya
+sifat spesifik yang dapat mempengaruhi gaya suatu element berdasarkan nilainya
 
 [list porperty yang bisa digunakan di dalam css](https://www.w3schools.com/cssref/default.asp)
 
