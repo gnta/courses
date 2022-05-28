@@ -38,8 +38,9 @@ sifat spesifik yang dapat mempengaruhi gaya suatu element berdasarkan nilainya
 
 ### Alur belajar
 
-1. ....
+1. Display ( none - inline - block ) 
 2. Tata letak (layouting)
+3. Positioning ( relative - absolute - fixed )
 
 ## Sumber
 
